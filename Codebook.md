@@ -1,4 +1,4 @@
-CourseProject
+Codebook
 =============
 The Data Cleaning Project
 
