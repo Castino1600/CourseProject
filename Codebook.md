@@ -46,3 +46,5 @@ Extract datasets with mean & std variable name
 Change activities to descriptive name
 Creating second, independent tidy dataset
 Write tidy data using space separator
+
+End of Codebook
